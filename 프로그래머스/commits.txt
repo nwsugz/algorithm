@@ -1,3 +1,4 @@
 2022-01-01 - Improve performance
 2022-01-01 - Update documentation
 2022-01-01 - Add new feature
+2022-01-01 - Update documentation
