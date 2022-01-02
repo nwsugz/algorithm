@@ -503,3 +503,4 @@
 2022-01-03 - Improve performance
 2022-01-03 - Update documentation
 2022-01-03 - Add unit tests
+2022-01-03 - Fix bug in module
