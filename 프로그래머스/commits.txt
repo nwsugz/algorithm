@@ -2,3 +2,4 @@
 2022-01-01 - Update documentation
 2022-01-01 - Add new feature
 2022-01-01 - Update documentation
+2022-01-02 - Update dependencies
