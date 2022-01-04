@@ -6,3 +6,4 @@
 2022-01-03 - Refactor code
 2022-01-03 - Update README
 2022-01-03 - Update documentation
+2022-01-04 - Update documentation
