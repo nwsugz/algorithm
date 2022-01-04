@@ -8,3 +8,4 @@
 2022-01-03 - Update documentation
 2022-01-04 - Update documentation
 2022-01-04 - Improve performance
+2022-01-05 - Update dependencies
