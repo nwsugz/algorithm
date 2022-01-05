@@ -508,3 +508,4 @@
 2022-01-04 - Update README
 2022-01-04 - Optimize function
 2022-01-04 - Add new feature
+2022-01-05 - Improve performance
