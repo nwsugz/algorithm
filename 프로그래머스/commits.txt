@@ -11,3 +11,4 @@
 2022-01-05 - Update dependencies
 2022-01-06 - Fix bug in module
 2022-01-06 - Code cleanup
+2022-01-06 - Refactor code
