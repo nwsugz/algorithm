@@ -20,3 +20,4 @@
 2022-01-07 - Fix bug in module
 2022-01-07 - Update dependencies
 2022-01-08 - Improve performance
+2022-01-09 - Refactor code
