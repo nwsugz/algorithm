@@ -25,3 +25,4 @@
 2022-01-10 - Improve performance
 2022-01-10 - Add unit tests
 2022-01-11 - Update dependencies
+2022-01-11 - Optimize function
