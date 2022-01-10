@@ -24,3 +24,4 @@
 2022-01-10 - Update documentation
 2022-01-10 - Improve performance
 2022-01-10 - Add unit tests
+2022-01-11 - Update dependencies
