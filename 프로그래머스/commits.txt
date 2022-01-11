@@ -521,3 +521,4 @@
 2022-01-11 - Update dependencies
 2022-01-11 - Update README
 2022-01-11 - Update documentation
+2022-01-11 - Code cleanup
