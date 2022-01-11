@@ -524,3 +524,4 @@
 2022-01-11 - Code cleanup
 2022-01-12 - Update documentation
 2022-01-12 - Update dependencies
+2022-01-12 - Optimize function
