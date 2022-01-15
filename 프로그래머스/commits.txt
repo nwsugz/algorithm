@@ -33,3 +33,4 @@
 2022-01-14 - Add unit tests
 2022-01-14 - Update dependencies
 2022-01-14 - Optimize function
+2022-01-15 - Code cleanup
