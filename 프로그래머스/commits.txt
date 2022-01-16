@@ -534,3 +534,4 @@
 2022-01-14 - Add unit tests
 2022-01-14 - Update documentation
 2022-01-15 - Refactor code
+2022-01-16 - Code cleanup
