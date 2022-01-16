@@ -537,3 +537,4 @@
 2022-01-16 - Code cleanup
 2022-01-17 - Update documentation
 2022-01-17 - Add new feature
+2022-01-17 - Optimize function
