@@ -53,3 +53,4 @@
 2022-01-22 - Add new feature
 2022-01-22 - Refactor code
 2022-01-23 - Fix bug in module
+2022-01-23 - Optimize function
