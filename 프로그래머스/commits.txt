@@ -56,3 +56,4 @@
 2022-01-23 - Optimize function
 2022-01-24 - Update documentation
 2022-01-24 - Add unit tests
+2022-01-24 - Fix bug in module
