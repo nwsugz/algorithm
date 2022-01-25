@@ -57,3 +57,4 @@
 2022-01-24 - Update documentation
 2022-01-24 - Add unit tests
 2022-01-24 - Fix bug in module
+2022-01-25 - Update README
