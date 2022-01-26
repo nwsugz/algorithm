@@ -65,3 +65,4 @@
 2022-01-26 - Add unit tests
 2022-01-26 - Improve performance
 2022-01-27 - Add new feature
+2022-01-27 - Refactor code
