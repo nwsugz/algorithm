@@ -61,3 +61,4 @@
 2022-01-25 - Fix bug in module
 2022-01-25 - Improve performance
 2022-01-25 - Add new feature
+2022-01-26 - Optimize function
