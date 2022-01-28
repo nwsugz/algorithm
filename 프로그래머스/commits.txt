@@ -69,3 +69,4 @@
 2022-01-27 - Update README
 2022-01-27 - Fix bug in module
 2022-01-27 - Add new feature
+2022-01-28 - Refactor code
