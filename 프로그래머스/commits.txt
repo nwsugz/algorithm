@@ -91,3 +91,4 @@
 2022-02-05 - Update dependencies
 2022-02-05 - Fix bug in module
 2022-02-07 - Add unit tests
+2022-02-07 - Optimize function
