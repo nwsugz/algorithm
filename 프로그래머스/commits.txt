@@ -590,3 +590,4 @@
 2022-02-08 - Code cleanup
 2022-02-09 - Improve performance
 2022-02-09 - Update documentation
+2022-02-11 - Optimize function
