@@ -99,3 +99,4 @@
 2022-02-09 - Optimize function
 2022-02-09 - Add unit tests
 2022-02-09 - Update documentation
+2022-02-10 - Refactor code
