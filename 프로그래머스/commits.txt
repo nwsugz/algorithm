@@ -592,3 +592,4 @@
 2022-02-09 - Update documentation
 2022-02-11 - Optimize function
 2022-02-11 - Update README
+2022-02-11 - Fix bug in module
