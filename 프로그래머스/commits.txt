@@ -591,3 +591,4 @@
 2022-02-09 - Improve performance
 2022-02-09 - Update documentation
 2022-02-11 - Optimize function
+2022-02-11 - Update README
