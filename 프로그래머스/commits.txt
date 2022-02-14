@@ -106,3 +106,4 @@
 2022-02-11 - Optimize function
 2022-02-12 - Add new feature
 2022-02-12 - Add unit tests
+2022-02-14 - Add new feature
