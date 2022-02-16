@@ -594,3 +594,4 @@
 2022-02-11 - Update README
 2022-02-11 - Fix bug in module
 2022-02-16 - Refactor code
+2022-02-17 - Add new feature
