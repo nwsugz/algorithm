@@ -108,3 +108,4 @@
 2022-02-12 - Add unit tests
 2022-02-14 - Add new feature
 2022-02-15 - Update README
+2022-02-18 - Update documentation
