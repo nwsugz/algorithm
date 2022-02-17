@@ -596,3 +596,4 @@
 2022-02-16 - Refactor code
 2022-02-17 - Add new feature
 2022-02-17 - Add new feature
+2022-02-17 - Code cleanup
