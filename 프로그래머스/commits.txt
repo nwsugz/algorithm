@@ -603,3 +603,4 @@
 2022-02-20 - Fix bug in module
 2022-02-20 - Update dependencies
 2022-02-20 - Refactor code
+2022-02-20 - Add unit tests
