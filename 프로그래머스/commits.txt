@@ -115,3 +115,4 @@
 2022-02-20 - Improve performance
 2022-02-20 - Optimize function
 2022-02-20 - Optimize function
+2022-02-21 - Fix bug in module
