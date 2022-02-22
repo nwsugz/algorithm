@@ -607,3 +607,4 @@
 2022-02-20 - Refactor code
 2022-02-21 - Improve performance
 2022-02-22 - Code cleanup
+2022-02-22 - Update README
