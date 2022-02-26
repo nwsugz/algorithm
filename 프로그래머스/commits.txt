@@ -614,3 +614,4 @@
 2022-02-24 - Add unit tests
 2022-02-25 - Add new feature
 2022-02-25 - Add new feature
+2022-02-27 - Update documentation
