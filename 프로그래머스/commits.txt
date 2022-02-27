@@ -615,3 +615,4 @@
 2022-02-25 - Add new feature
 2022-02-25 - Add new feature
 2022-02-27 - Update documentation
+2022-02-27 - Refactor code
