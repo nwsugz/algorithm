@@ -122,3 +122,4 @@
 2022-02-23 - Update documentation
 2022-02-27 - Improve performance
 2022-02-27 - Update README
+2022-02-28 - Add unit tests
