@@ -619,3 +619,4 @@
 2022-02-27 - Update dependencies
 2022-02-27 - Add new feature
 2022-02-28 - Code cleanup
+2022-03-01 - Update README
