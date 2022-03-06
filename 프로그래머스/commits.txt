@@ -136,3 +136,4 @@
 2022-03-05 - Update documentation
 2022-03-05 - Fix bug in module
 2022-03-05 - Update README
+2022-03-06 - Update documentation
