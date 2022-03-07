@@ -636,3 +636,4 @@
 2022-03-07 - Update dependencies
 2022-03-07 - Improve performance
 2022-03-07 - Add unit tests
+2022-03-08 - Update README
