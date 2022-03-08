@@ -140,3 +140,4 @@
 2022-03-06 - Code cleanup
 2022-03-06 - Code cleanup
 2022-03-07 - Add unit tests
+2022-03-08 - Optimize function
