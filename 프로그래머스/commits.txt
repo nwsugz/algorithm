@@ -150,3 +150,4 @@
 2022-03-13 - Update documentation
 2022-03-13 - Refactor code
 2022-03-13 - Update README
+2022-03-13 - Code cleanup
