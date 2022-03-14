@@ -152,3 +152,4 @@
 2022-03-13 - Update README
 2022-03-13 - Code cleanup
 2022-03-13 - Update dependencies
+2022-03-14 - Optimize function
