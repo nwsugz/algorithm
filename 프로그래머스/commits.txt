@@ -668,3 +668,4 @@
 2022-03-17 - Refactor code
 2022-03-18 - Update dependencies
 2022-03-18 - Improve performance
+2022-03-18 - Update documentation
