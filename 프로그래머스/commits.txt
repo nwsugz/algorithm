@@ -164,3 +164,4 @@
 2022-03-19 - Optimize function
 2022-03-20 - Refactor code
 2022-03-20 - Improve performance
+2022-03-22 - Refactor code
