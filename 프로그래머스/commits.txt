@@ -168,3 +168,4 @@
 2022-03-23 - Add new feature
 2022-03-23 - Update README
 2022-03-23 - Improve performance
+2022-03-23 - Update documentation
