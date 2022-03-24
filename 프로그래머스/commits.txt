@@ -169,3 +169,4 @@
 2022-03-23 - Update README
 2022-03-23 - Improve performance
 2022-03-23 - Update documentation
+2022-03-24 - Code cleanup
