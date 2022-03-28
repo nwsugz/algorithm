@@ -180,3 +180,4 @@
 2022-03-27 - Add unit tests
 2022-03-27 - Add unit tests
 2022-03-27 - Update documentation
+2022-03-28 - Fix bug in module
