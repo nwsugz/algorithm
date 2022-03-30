@@ -185,3 +185,4 @@
 2022-03-29 - Add new feature
 2022-03-30 - Add new feature
 2022-03-30 - Update documentation
+2022-03-31 - Improve performance
