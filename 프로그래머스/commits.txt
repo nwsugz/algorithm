@@ -184,3 +184,4 @@
 2022-03-28 - Code cleanup
 2022-03-29 - Add new feature
 2022-03-30 - Add new feature
+2022-03-30 - Update documentation
