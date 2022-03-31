@@ -700,3 +700,4 @@
 2022-03-29 - Optimize function
 2022-03-29 - Refactor code
 2022-03-29 - Add new feature
+2022-03-31 - Update documentation
