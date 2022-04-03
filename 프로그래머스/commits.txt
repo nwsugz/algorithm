@@ -703,3 +703,4 @@
 2022-03-31 - Update documentation
 2022-03-31 - Add new feature
 2022-04-02 - Add unit tests
+2022-04-03 - Refactor code
