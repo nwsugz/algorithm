@@ -712,3 +712,4 @@
 2022-04-05 - Update README
 2022-04-06 - Update documentation
 2022-04-06 - Fix bug in module
+2022-04-07 - Improve performance
