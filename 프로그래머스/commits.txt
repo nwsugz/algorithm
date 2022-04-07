@@ -207,3 +207,4 @@
 2022-04-07 - Optimize function
 2022-04-07 - Improve performance
 2022-04-07 - Update documentation
+2022-04-07 - Fix bug in module
