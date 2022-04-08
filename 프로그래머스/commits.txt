@@ -212,3 +212,4 @@
 2022-04-08 - Fix bug in module
 2022-04-09 - Update dependencies
 2022-04-09 - Update README
+2022-04-09 - Add unit tests
