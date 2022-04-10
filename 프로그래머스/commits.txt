@@ -720,3 +720,4 @@
 2022-04-08 - Add new feature
 2022-04-08 - Update documentation
 2022-04-09 - Update README
+2022-04-10 - Code cleanup
