@@ -220,3 +220,4 @@
 2022-04-11 - Add unit tests
 2022-04-11 - Update dependencies
 2022-04-11 - Update dependencies
+2022-04-11 - Optimize function
