@@ -224,3 +224,4 @@
 2022-04-12 - Fix bug in module
 2022-04-12 - Update dependencies
 2022-04-12 - Code cleanup
+2022-04-12 - Update README
