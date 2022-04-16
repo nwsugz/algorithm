@@ -735,3 +735,4 @@
 2022-04-16 - Add unit tests
 2022-04-16 - Update README
 2022-04-16 - Update README
+2022-04-17 - Optimize function
