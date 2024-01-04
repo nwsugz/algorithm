@@ -1,3 +1,4 @@
 2024-01-03 - Optimize function
 2024-01-03 - Update dependencies
 2024-01-04 - Improve performance
+2024-01-04 - Update README
