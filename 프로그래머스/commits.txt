@@ -18,3 +18,4 @@
 2024-01-11 - Improve performance
 2024-01-11 - Update documentation
 2024-01-11 - Improve performance
+2024-01-11 - Optimize function
