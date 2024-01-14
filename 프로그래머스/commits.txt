@@ -21,3 +21,4 @@
 2024-01-11 - Optimize function
 2024-01-12 - Add new feature
 2024-01-12 - Fix bug in module
+2024-01-14 - Fix bug in module
