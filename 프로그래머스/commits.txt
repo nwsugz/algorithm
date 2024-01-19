@@ -32,3 +32,4 @@
 2024-01-17 - Update README
 2024-01-18 - Add new feature
 2024-01-18 - Update documentation
+2024-01-19 - Fix bug in module
