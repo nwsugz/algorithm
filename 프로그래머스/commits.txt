@@ -43,3 +43,4 @@
 2024-01-21 - Optimize function
 2024-01-21 - Update documentation
 2024-01-21 - Fix bug in module
+2024-01-21 - Refactor code
