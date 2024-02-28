@@ -117,3 +117,4 @@
 2024-02-26 - Update documentation
 2024-02-26 - Update README
 2024-02-26 - Refactor code
+2024-02-28 - Update dependencies
