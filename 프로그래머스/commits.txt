@@ -141,3 +141,4 @@
 2024-03-07 - Optimize function
 2024-03-08 - Add unit tests
 2024-03-08 - Add unit tests
+2024-03-08 - Update documentation
