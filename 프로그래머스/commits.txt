@@ -139,3 +139,4 @@
 2024-03-06 - Fix bug in module
 2024-03-06 - Update README
 2024-03-07 - Optimize function
+2024-03-08 - Add unit tests
