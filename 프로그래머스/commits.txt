@@ -145,3 +145,4 @@
 2024-03-08 - Add new feature
 2024-03-09 - Optimize function
 2024-03-09 - Update README
+2024-03-09 - Fix bug in module
