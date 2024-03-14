@@ -155,3 +155,4 @@
 2024-03-11 - Refactor code
 2024-03-12 - Code cleanup
 2024-03-12 - Update README
+2024-03-14 - Improve performance
