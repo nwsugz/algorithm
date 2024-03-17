@@ -170,3 +170,4 @@
 2024-03-18 - Improve performance
 2024-03-18 - Update README
 2024-03-18 - Update dependencies
+2024-03-18 - Update documentation
