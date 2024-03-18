@@ -168,3 +168,4 @@
 2024-03-17 - Add unit tests
 2024-03-17 - Update dependencies
 2024-03-18 - Improve performance
+2024-03-18 - Update README
