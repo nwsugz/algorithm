@@ -200,3 +200,4 @@
 2024-03-30 - Refactor code
 2024-03-30 - Update dependencies
 2024-03-31 - Update README
+2024-04-01 - Optimize function
