@@ -226,3 +226,4 @@
 2024-04-07 - Update documentation
 2024-04-08 - Improve performance
 2024-04-08 - Optimize function
+2024-04-08 - Update README
