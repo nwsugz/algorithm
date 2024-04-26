@@ -271,3 +271,4 @@
 2024-04-23 - Optimize function
 2024-04-23 - Update dependencies
 2024-04-25 - Update documentation
+2024-04-26 - Update README
