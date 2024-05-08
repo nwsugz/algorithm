@@ -296,3 +296,4 @@
 2024-05-06 - Improve performance
 2024-05-06 - Improve performance
 2024-05-06 - Update documentation
+2024-05-08 - Add new feature
