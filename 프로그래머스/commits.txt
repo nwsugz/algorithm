@@ -321,3 +321,4 @@
 2024-05-17 - Update documentation
 2024-05-17 - Optimize function
 2024-05-17 - Fix bug in module
+2024-05-19 - Fix bug in module
