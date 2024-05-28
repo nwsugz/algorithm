@@ -334,3 +334,4 @@
 2024-05-27 - Optimize function
 2024-05-27 - Add new feature
 2024-05-27 - Add unit tests
+2024-05-28 - Update documentation
