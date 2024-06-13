@@ -364,3 +364,4 @@
 2024-06-11 - Add unit tests
 2024-06-11 - Optimize function
 2024-06-14 - Update dependencies
+2024-06-14 - Update README
