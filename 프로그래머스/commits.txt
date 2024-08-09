@@ -493,3 +493,4 @@
 2024-08-07 - Update documentation
 2024-08-08 - Improve performance
 2024-08-08 - Update dependencies
+2024-08-09 - Update README
